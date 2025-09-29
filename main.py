@@ -48,7 +48,6 @@ auto = [
     Car("Nissan", 2022, "Altima", "Modrá", "Automatická", 700000),
     Car("Hyundai", 2016, "Elantra", "Stříbrná", "Manuální", 220000)
 ]
-
-
-print(auto.Vypis())
+for a in auto:
+    print(a.Vypis())
 
