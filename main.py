@@ -51,3 +51,4 @@ auto = [
 for a in auto:
     print(a.Vypis())
 
+ 
